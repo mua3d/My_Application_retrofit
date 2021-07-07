@@ -32,6 +32,8 @@ class MainAdapter : RecyclerView.Adapter<MainViewHolder>() {
 
        holder.binding.titleTv.text = item.title
        holder.binding.descriptionTv.text = item.description
+       Glide.with(holder.itemView.context).load(item.imageUrl).into(holder.binding.imageView)
+
 
 
 

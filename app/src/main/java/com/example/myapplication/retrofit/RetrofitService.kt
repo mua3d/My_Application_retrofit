@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET
 
 interface RetrofitService {
-    @GET("f6a04152-7e32-413c-a582-e38122ac3106")
+    @GET("70d349b5-c240-4cda-aa18-bc9c860a71a3")
     fun getAllItem(): Call<List<Item>>
 
     //Retrofit service instance
