@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="content_description_media">content description media</string>
+    <string name="supporting_text">supporting text</string>
+    <string name="secondary_text">Secondary text</string>
+    <string name="action_1">Button</string>
+    <string name="Title">Title</string>
+</resources>
